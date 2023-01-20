@@ -20,20 +20,6 @@ This application provides users with the following features
 * A **Private Chat** functionality where users can chat with other users privately.
 * Real-time updates to the user list, conversation list, and conversation messages
 
-#### Screenshots
-
-##### Global Chat
-![Global Chat](https://i.imgur.com/VkdwAme.png)
-<br/><br/>
-##### Private Chat
-![Private Chat](https://i.imgur.com/jdCBYu4.png)
-<br/><br/>
-##### Login
-![Login](https://i.imgur.com/6iobucn.png)
-<br/><br/>
-##### Register
-![Register](https://i.imgur.com/AMkpl9C.png)
-
 ### How to use
 
 You can have this application up and running with just a few steps because it has both the frontend and the backend in a single repository. Follow the steps below to do so.
@@ -51,9 +37,5 @@ You can have this application up and running with just a few steps because it ha
 * Database connections in the backend are handled using the [Mongoose ORM](https://mongoosejs.com/)
 * Code quality is ensured using (ESLint)[https://eslint.org/]
 
-### Disclaimer
-
-This repository contains beginner level code and might contain some things I wish to change or remove. I have not maintained this for quite some time, but now I am trying to slowly fix these issues. You are welcome to open issues if you find any and I will accept PR's as well.
-<br/><br/>
 
 Cheers 💻 🍺 🔥 🙌
