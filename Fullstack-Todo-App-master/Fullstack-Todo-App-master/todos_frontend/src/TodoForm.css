@@ -1,0 +1,37 @@
+.form {
+	width: 800px;
+	margin: 40px auto 10px;
+	text-align: center;
+}
+
+input {
+	width: 100%;
+	height: 60px;
+	background: none;
+	border: none;
+	border-bottom: 1px solid #34495e;
+	outline: none;
+	font: 300 28px 'Ubuntu', sans-serif;
+	padding: 5px;
+	color: #34495e;
+}
+
+
+.btn-addTodo {
+  text-align: center;
+  padding: 10px 30px;
+  border-radius: 100px;
+  letter-spacing: 1px;
+  transition: background-color 0.2s, border 0.2s, color 0.2s;
+  background-color: #ecf0f1;
+  border: 1px solid #bdc3c7;
+  text-decoration: none;
+  color: #bdc3c7;
+}
+
+.btn-addTodo:focus {outline:0;}
+
+
+.btn-addTodo:hover {
+  background-color: #fff;
+}
