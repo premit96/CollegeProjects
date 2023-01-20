@@ -36,6 +36,3 @@ You can have this application up and running with just a few steps because it ha
 * The frontend is created using [create-react-app](https://github.com/facebook/create-react-app)
 * Database connections in the backend are handled using the [Mongoose ORM](https://mongoosejs.com/)
 * Code quality is ensured using (ESLint)[https://eslint.org/]
-
-
-Cheers 💻 🍺 🔥 🙌
